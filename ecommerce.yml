@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: 97kzone3
+  secret: 97kzone
 
 gateway:
   ip: 192.168.0.4
